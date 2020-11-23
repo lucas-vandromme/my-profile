@@ -1,0 +1,146 @@
+body {
+	background-color: #F7F9FC;
+	color: #131D47;
+	font-family: Open sans;
+}
+
+h1 {
+	color: #5DDADB;
+	font-family: 'Merriweather', serif;
+	font-weight: 750;
+	letter-spacing: -1px;
+	font-size: 38px;
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+
+h2 {
+	color: #5DDADB;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0px;
+	font-size: 27px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+h3 {
+	color: #5DDADB;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0px;
+	font-size: 27px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+h4 {
+	color: #5DDADB;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0px;
+	font-size: 27px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+h5 {
+	color: #5DDADB;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0px;
+	font-size: 27px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+a {
+	text-decoration: none;
+	font-family: Open sans;
+	color: #6B72E1;
+	font-weight: 1000;
+	font-size: 15px;
+}
+
+a:hover {
+	color: black;
+}
+
+
+
+.container {
+	width: 900px;
+	margin : 45px auto;
+}
+
+@media (max-width: 960px) {
+	.container {
+		width: 700px;
+	}
+}
+
+@media (max-width: 720px) {
+	.container {
+		width: 500px;
+	}
+}
+
+@media (max-width: 540px) {
+	.container {
+		width: 300px;
+	}
+}
+
+.card-white {
+	background-color: white;
+    padding: 37px;
+    margin: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.btn-blue {
+    background-color: #131D47;
+    color: white;
+    padding: 14px 21px;
+    border-radius: 10px;
+    margin-top: 10000px;
+}
+
+.btn-blue:hover {
+	background-color: turquoise;
+	color: white;
+}
+
+.list-inline {
+    life-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 9px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: #131D47;
+}
+
+.list-inline i:hover {
+	color: turquoise;
+}
+
+#introduction p {
+	margin-bottom: 20px;
+}
+
+
+
+}
